@@ -1,0 +1,4 @@
+repository = memory
+movies = movie.bin
+clients = client.bin
+rentals = rental.bin
